@@ -39,7 +39,7 @@
 <p align="middle"><img src="images/active projects.JPG" width="75%" height="75%"></p>
 
 2- Create Projects Page
-<p align="middle"><img src="images/create projects.JPG" width="75%" height="75%"></p>
+<p align="middle"><img src="images/create project.JPG" width="75%" height="75%"></p>
 
 3- Open Tickets Page
 <p align="middle"><img src="images/open tickets.JPG" width="75%" height="75%"></p>
