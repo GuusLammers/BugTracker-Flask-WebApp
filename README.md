@@ -2,10 +2,12 @@
  This is a Flask web application that can be used to track bugs in your coding projects! It allows you to sort projects and tickets into categories like active and complete and open and closed respectively.
 
 # What I Learnt
-1- Worked with Flask to build backend of application.<br />
-2- Implemented a one to many SQLite database using SQLAlchemy with full CRUD functionality.<br />
-3- Modified HTML of an existing bootstrap template to create a front end with a clean aesthetic.<br />
-4- Implemented full authorization/authentication functionality using flask_login. <br />
+<ol>
+ <li>Worked with Flask to build backend of application.</li>
+ <li>Implemented a one to many SQLite database using SQLAlchemy with full CRUD functionality.</li>
+ <li>Modified HTML of an existing bootstrap template to create a front end with a clean aesthetic.</li>
+ <li>Implemented full authorization/authentication functionality using flask_login.</li>
+</ol>
 
 # User Instructions
 <b>1-</b> To use or test out the application yourself you will first need to download all of the files in the 'flaskr' folder and store them on somewhere on your computer.<br />
