@@ -35,3 +35,5 @@
 
 
 # Application Pictures
+1- Active Projects Page
+<p align="middle"><img src="images/active_projects.JPG" width="75%" height="75%"></p>
