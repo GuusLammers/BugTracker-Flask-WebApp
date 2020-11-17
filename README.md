@@ -8,7 +8,7 @@
 4- Implemented full authorization/authentication functionality using flask_login. <br />
 
 # User Instructions
-1- To use or test out the application yourself you will first need to download all of the files in the 'flaskr' folder and store them on somewhere on your computer.<br />
+<b>1-</b> To use or test out the application yourself you will first need to download all of the files in the 'flaskr' folder and store them on somewhere on your computer.<br />
 <br>
 2- You will need to create a Python environment and install the following libraries: </br> 
    a- flask</br> 
