@@ -29,26 +29,29 @@
     <li>Exit your python repl by typing 'quit()' and pressing enter.</li>
   </ol>
  </li>   
- <b>4-</b> Set up flask app to run on your local host:</br>
-    <b>a-</b> Open your terminal and enter the following commands.</br>
-    <b>b-</b> Enter 'set FLASK_APP=flaskr' and press enter.</br>
-    <b>c-</b> Enter 'set FLASK_ENV=development' and press enter.</br>
-    <b>d-</b> Enter 'flask run' and press enter.</br>
- <br>   
- <b>5-</b> After entering the last command the flask app should be running. A link to your localhost will have appeared in your terminal. Click the link and the application will open.</br>
- <br>
- <b>6-</b> Create an account and use the application to keep track of your projects.</br>
+ <li>Set up flask app to run on your local host:
+  <ol>
+    <li>Open your terminal and enter the following commands.</li>  
+    <li>Enter 'set FLASK_APP=flaskr' and press enter.</li>  
+    <li>Enter 'set FLASK_ENV=development' and press enter.</li>  
+    <li>Enter 'flask run' and press enter.</li>  
+  </ol>  
+ </li>   
+ <li>After entering the last command the flask app should be running. A link to your localhost will have appeared in your terminal. Click the link and the application will open.</li>
+ <li>Create an account and use the application to keep track of your projects.</li>
 </ol>
 
 # Application Pictures
-1- Active Projects Page
-<p align="middle"><img src="images/active projects.JPG" width="75%" height="75%"></p>
+<ol>
+ <li>Active Projects Page
+ <p align="middle"><img src="images/active projects.JPG" width="75%" height="75%"></p></li>
 
-2- Create Projects Page
-<p align="middle"><img src="images/create project.JPG" width="75%" height="75%"></p>
+ <li>Create Projects Page
+ <p align="middle"><img src="images/create project.JPG" width="75%" height="75%"></p></li>
 
-3- Open Tickets Page
-<p align="middle"><img src="images/open tickets.JPG" width="75%" height="75%"></p>
+ <li>Open Tickets Page
+ <p align="middle"><img src="images/open tickets.JPG" width="75%" height="75%"></p></li>
 
-4- Create Ticket Page
-<p align="middle"><img src="images/create ticket.JPG" width="75%" height="75%"></p>
+ <li>Create Ticket Page
+ <p align="middle"><img src="images/create ticket.JPG" width="75%" height="75%"></p></li>
+</ol>
