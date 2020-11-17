@@ -37,3 +37,12 @@
 # Application Pictures
 1- Active Projects Page
 <p align="middle"><img src="images/active projects.JPG" width="75%" height="75%"></p>
+
+2- Create Projects Page
+<p align="middle"><img src="images/create projects.JPG" width="75%" height="75%"></p>
+
+3- Open Tickets Page
+<p align="middle"><img src="images/open tickets.JPG" width="75%" height="75%"></p>
+
+4- Create Ticket Page
+<p align="middle"><img src="images/create ticket.JPG" width="75%" height="75%"></p>
