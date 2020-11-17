@@ -44,14 +44,14 @@
 # Application Pictures
 <ol>
  <li>Active Projects Page
- <p align="middle"><img src="images/active projects.JPG" width="80%" height="80%"></p></li>
+ <p align="middle"><img src="images/active projects.JPG" width="90%" height="90%"></p></li>
 
  <li>Create Projects Page
- <p align="middle"><img src="images/create project.JPG" width="80%" height="80%"></p></li>
+ <p align="middle"><img src="images/create project.JPG" width="90%" height="90%"></p></li>
 
  <li>Open Tickets Page
- <p align="middle"><img src="images/open tickets.JPG" width="80%" height="80%"></p></li>
+ <p align="middle"><img src="images/open tickets.JPG" width="90%" height="90%"></p></li>
 
  <li>Create Ticket Page
- <p align="middle"><img src="images/create ticket.JPG" width="80%" height="80%"></p></li>
+ <p align="middle"><img src="images/create ticket.JPG" width="90%" height="90%"></p></li>
 </ol>
